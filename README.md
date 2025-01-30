@@ -1,2 +1,2 @@
 # Java-Projects
-Java project files
+Various Java projects I have done/am working on!
